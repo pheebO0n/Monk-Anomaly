@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Pygame / Assets (ถ้าไฟล์เสียงใหญ่เกิน 50MB ไม่ควรอัปขึ้น Git)
+# data/rain.ogg 
